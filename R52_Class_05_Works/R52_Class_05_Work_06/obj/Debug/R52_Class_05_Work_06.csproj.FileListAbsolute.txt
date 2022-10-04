@@ -1,0 +1,8 @@
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\bin\Debug\R52_Class_05_Work_06.exe.config
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\bin\Debug\R52_Class_05_Work_06.exe
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\bin\Debug\R52_Class_05_Work_06.pdb
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\obj\Debug\R52_Class_05_Work_06.csproj.AssemblyReference.cache
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\obj\Debug\R52_Class_05_Work_06.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\obj\Debug\R52_Class_05_Work_06.csproj.CoreCompileInputs.cache
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\obj\Debug\R52_Class_05_Work_06.exe
+D:\R52\M2\Class 05\R52_Class_05_Works\R52_Class_05_Work_06\obj\Debug\R52_Class_05_Work_06.pdb

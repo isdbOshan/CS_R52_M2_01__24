@@ -1,0 +1,8 @@
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\obj\Debug\R52_M2_Class_14_Work_02.csproj.AssemblyReference.cache
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\obj\Debug\R52_M2_Class_14_Work_02.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\obj\Debug\R52_M2_Class_14_Work_02.csproj.CoreCompileInputs.cache
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\bin\Debug\R52_M2_Class_14_Work_02.exe.config
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\bin\Debug\R52_M2_Class_14_Work_02.exe
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\bin\Debug\R52_M2_Class_14_Work_02.pdb
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\obj\Debug\R52_M2_Class_14_Work_02.exe
+D:\R52\M2\Class 14\R52_M2_Class_14_Works\R52_M2_Class_14_Work_02\obj\Debug\R52_M2_Class_14_Work_02.pdb
